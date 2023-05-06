@@ -1,1 +1,1 @@
-Clasico juego de piedra papel o tijera contra un bot. Que guarda las partidas en un block de notas
+Rock Paper Scissors Game is a classic rock paper scissors game developed in Python. It allows the user to play a set number of rounds against the computer. At the end of each game, the results are recorded in a text file that includes the player's name, the player's score, the computer's score, and the number of ties. In addition, a color system is used in the console to improve the user experience.
